@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">imc</string>
+    <string name="app_title">"Calculadora de IMC"</string>
+    <string name="height">altura (m)</string>
+    <string name="peso">peso (Kg)</string>
+    <string name="calculate">Calcular</string>
+    <string name="imc_field">IMC: ---</string>
+    <string name="classification_field">Status: ---</string>
+    <string name="toast_error_message">"Preencha os campos corretamente"</string>
+    <string name="alert_message">O IMC não é uma métrica simples e possui limitações.\n\nEm caso de dúvidas, procure um especialista.</string>
+</resources>
